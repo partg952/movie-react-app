@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap');
+body{
+font-family: 'Noto Sans JP', sans-serif;
+background-color:black;
+color: white;
+}
+body::-webkit-scrollbar{
+    width: 10px;
+    
+}
+body::-webkit-scrollbar-thumb{
+    border-radius: 50px;
+    background-color:rgba(255, 255, 255, 0.459);
+}
+body::-webkit-scrollbar-thumb:hover{
+    background-color: white;
+}

@@ -1,0 +1,27 @@
+.template{
+    color: white;
+    text-decoration: none;
+    height: 230px;
+    text-align: center;
+    transition: transform 0.3s;
+    text-align: center;
+
+}
+
+.template p{
+    background-color: transparent;
+    
+    text-align: center;
+}
+
+.template img{
+    border-radius: 5px;
+    width: 100px;
+    height: 150px;
+}
+.template:hover{
+   transform: scale(1.08);
+   opacity: 1;
+
+}
+
